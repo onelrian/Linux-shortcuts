@@ -15,7 +15,7 @@ This repository contains essential **Visual Studio Code shortcuts** to help deve
 ## **Getting Started**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/vs-code-shortcuts.git
+   git clone https://github.com/onelrian/Linux-shortcuts.git
    cd vs-code-shortcuts
    ```
 2. Open the **shortcuts file** in your favorite text editor or VS Code.  
